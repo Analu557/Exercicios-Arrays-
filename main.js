@@ -46,6 +46,7 @@ console.log("Frutas após splice:", frutas);
 // Exiba o tamanho do array de frutas após a alteração.
 // Método sugerido: length
 console.log("Tamanho do array de frutas:", frutas.length);
+
 // EXERCÍCIO 08 - Criando um histórico de páginas
 // Crie um array chamado historico e simule acessos às páginas "home", "sobre" e "contato".
 // Método sugerido: push
